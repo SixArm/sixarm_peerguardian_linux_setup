@@ -1,4 +1,4 @@
-# SixArm.com »  <br> PeerGuardian Linux Setup
+#  <br> PeerGuardian Linux Setup
 
 PeerGuardian Linux (pgl) is a privacy-oriented firewall application. 
 It blocks connections to and from hosts specified in huge block lists,
